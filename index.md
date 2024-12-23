@@ -10,3 +10,9 @@ $
 ``` javascript
 var myVar = "Hello, BTS CIEL!";
 ```
+
+
+- [x] Partie 1 
+- [x] Partie 2
+- [ ] Partie 3
+
